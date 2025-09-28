@@ -16,6 +16,10 @@ The following **required** functionality is completed:
 - [X] The server is connected to a Postgres database.
 - [X] The server queries the table to insert and retrieve data.
 
+The following **optional** features are implemented:
+
+- [X] The web app is appropriately styled using Picocss
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
