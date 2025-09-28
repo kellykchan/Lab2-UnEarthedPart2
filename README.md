@@ -1,4 +1,4 @@
-# Web Development Lab 2 - *NUnEarthed Part2*
+# Web Development Lab 2 - *UnEarthed Part2*
 
 Submitted by: **Kelly Chan**
 
