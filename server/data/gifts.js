@@ -1,4 +1,4 @@
-const giftData = [
+export const giftData = [
   {
       "id": 1,
       "name": "Disco Ball Candle",
